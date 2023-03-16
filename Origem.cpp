@@ -135,8 +135,15 @@ void score(int& x, int& y) {
 int main() {
     //Enter number of players, max 16
     int n;
-    cout << "Number of players: [2, 4, 8, 16]\n";
-    cin >> n;
+
+    while(true) {
+        cout << "Number of players: [2, 4, 8, 16]\n";
+        cin >> n;
+        if (n == 2 || n == 4 || n == 8 || n == 16) {
+            break;
+        }
+        cout << "Please enter a valid number";
+    }
 
     //vector players of type player(struct)
     vector <player> players(n);
