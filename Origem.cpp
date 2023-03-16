@@ -1,4 +1,4 @@
-//Teenis tournamet random generator
+//Tennis tournament random generator
 
 /* EXAMPLE OF INPUT:
 4 (number of players participating in the tournament)
