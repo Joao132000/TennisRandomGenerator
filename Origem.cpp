@@ -11,7 +11,7 @@ Chris 3*/
 /*OR*/
 
 /* EXAMPLE OF INPUT:
-4 (number of players participating in the tournament)
+8 (number of players participating in the tournament)
 (Players and UTRs)
 Alex 12
 Dan 13
