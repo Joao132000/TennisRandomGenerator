@@ -8,6 +8,20 @@ Dan 8
 Joe 9
 Chris 3*/
 
+/*OR*/
+
+/* EXAMPLE OF INPUT:
+4 (number of players participating in the tournament)
+(Players and UTRs)
+Alex 12
+Dan 13
+Joe 10
+Chris 9
+Federer 14
+Nadal 16
+Ronaldo 12
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
